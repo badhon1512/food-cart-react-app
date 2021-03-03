@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+#cart img{
+  height: 60px;
+  width: 60px;
+}
+
+.card-img-top{
+  width: 100px;
+  height: 200px;
+  margin-right: 10px;
+}
